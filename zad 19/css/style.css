@@ -1,0 +1,34 @@
+body {
+
+    background-color: #f5f5dd;
+
+}
+
+div {
+
+    width:100px;
+    height:100px;
+    margin:20px;
+
+}
+
+#first {
+
+    background-color: black;
+}
+
+#second {
+
+    background-color:rgba(0,0,0,0.7);
+}
+
+#third {
+
+    background-color:rgba(0,0,0,0.4);
+}
+
+#fourth {
+
+    background-color:rgba(0,0,0,0.1);
+}
+
