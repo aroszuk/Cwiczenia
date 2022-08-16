@@ -1,0 +1,18 @@
+div {
+
+    width:200px;
+    height:200px;
+    background-color: #fea500;
+    margin:20px;
+    border:1px solid black;
+}
+
+body {
+
+    background-color: #808080;
+}
+
+h1 {
+
+    color:#fff;
+}
