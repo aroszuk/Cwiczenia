@@ -1,0 +1,50 @@
+body {
+
+    background-color:burlywood;
+}
+
+h1 {
+
+    background-color:blueviolet;
+}
+
+p {
+
+    background-color: cornflowerblue;
+}
+
+h1+p {
+
+    background-color: aqua;
+
+}
+
+h2 {
+
+    background-color: darkolivegreen;
+}
+
+ol li:nth-child(1) {
+
+    color:darkblue;
+}
+
+ol li:nth-child(2) {
+
+    color:crimson;
+}
+
+ol li:nth-child(3) {
+
+    color:black;
+}
+
+ol li:nth-child(4) {
+
+    color:dodgerblue
+}
+
+ol li:nth-child(5) {
+
+    color:white;
+}

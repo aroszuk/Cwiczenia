@@ -1,0 +1,17 @@
+p {
+
+    width:100px;
+    height:100px;
+    background-color:red;
+}
+
+p.blue {
+
+    background-color: blue;
+
+}
+
+p.glass {
+
+    opacity:0.3;
+}
